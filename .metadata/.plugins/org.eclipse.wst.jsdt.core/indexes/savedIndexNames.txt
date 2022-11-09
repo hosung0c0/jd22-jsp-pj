@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\jd22-jsp-pj\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3911212621.index
+2635733499.index
+2666123517.index
+3467282594.index
+3359359513.index
+1976456893.index
+1653332843.index
+3973853873.index
